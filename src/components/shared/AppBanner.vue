@@ -41,8 +41,8 @@ export default {
 			<!-- class="font-general-medium flex items-center px-6 py-3 rounded-lg shadow-lg hover:shadow-xl bg-indigo-500 hover:bg-indigo-600 focus:ring-1 focus:ring-indigo-900 text-white text-lg sm:text-xl duration-300" -->
 			<div class="flex justify-center sm:block">
 				<a
-					download="Stoman-Resume.pdf"
-					href="/files/Stoman-Resume.pdf"
+					download="Resume.pdf"
+					href="/files/Resume.pdf"
 					
 					class="flex justify-center items-center w-36 sm:w-48 mt-6 mb-6 sm:mb-0 text-white border border-indigo-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-indigo-500 focus:ring-1 focus:ring-indigo-900 hover:shadow-xl hover:bg-indigo-600 duration-500"
 					aria-label="Download Resume"
